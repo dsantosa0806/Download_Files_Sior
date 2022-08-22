@@ -36,8 +36,8 @@ def acessa_sior():
 
 
 def login():
-    userName = '04278152159'
-    userPass = 'Daniel0806'
+    userName = ''
+    userPass = ''
     CPFpath = '// *[ @ id = "UserName"]'
     senhaPath = '//*[@id="Password"]'
     clickpath = '//*[@id="FormLogin"]/div[4]/div[2]/button'
